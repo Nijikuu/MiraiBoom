@@ -10,6 +10,7 @@
 ## 给想要魔改MiraiBoom的开发者的食用方法
 不会真有人想要魔改这个玩意吧！不会吧不会吧
 从[这个仓库](https://github.com/MizunaNako/mirai-console-starter/tree/master/lib/)下载mirai相关的包然后找32位jre，并把这堆东西打包为.zip，使其解压出来后是**两个文件夹**，而不是一个文件夹里面装了两个文件夹
+或从ReleaseV0.0.1里面直接下载Sources.zip，解压就是正常的塞了zip的文件
 
 把这压缩包作为资源，塞进易语言的图片资源表（文件），然后各种魔改+编译即可
 
