@@ -1,4 +1,4 @@
-##MiraiBoom
+#MiraiBoom
 首个易语言写的mirai一键包（大概）
 
 随时会爆炸的一键包（确信）
