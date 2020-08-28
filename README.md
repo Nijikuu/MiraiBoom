@@ -1,5 +1,5 @@
 # ~~我不会放弃这个项目的~~ 停止维护
-原因：MiraiConsoleM3有更完美的启动方法，而且我咕了
+原因：MiraiConsoleM3有更完美的启动方法，而且我懒
 
 # MiraiBoom
 
