@@ -4,10 +4,15 @@
 # MiraiBoom
 
 首个易语言写的mirai一键包（大概）
-
 随时会爆炸的一键包（确信）
 
-## 使用方法
+## 你知道吗：这事一个套娃项目
+ ### 主项目 [Mirai](https://github.com/mamoe/mirai)
+ #### 套了个 [Mirai-Console](https://github.com/mamoe/mirai-console/)
+ ##### 然后套了个用于启动[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)
+ ###### 最后套了个用于启动[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的一键包
+
+# 使用方法
 从Release里面下载然后运行即可
 
 ## 给想要魔改MiraiBoom的开发者的食用方法
@@ -23,16 +28,30 @@
 ## 安全软件
 有一说一这个屑玩意拿易语言写的，如果报毒之类的建议别理，不信你下源码看看我写了些啥，害怕的可以不用
 
-## 关于ISSUE
-以下ISSUE会被直接关闭
+# 关于ISSUE
+## 以下ISSUE会被直接关闭
 - 我不想回答的
 - 询问任何安装问题
 - 询问任何如何下载相关的问题
 - 询问如何更新
 - 提出bug
 
-以下情况所有ISSUE都不会回答
+## 以下情况所有ISSUE都不会回答
 - 我不在家
 - 我开学
 - 我梯子没了
 >请注意, 开发者并没有义务回复您的问题.您应该学会自己查看源码
+
+# 功能
+
+## 已经实现
+- [x] 自动解压
+- [x] 自动安装
+- [x] 一球人要的自动登录
+
+## 正在咕咕
+- [ ] 自动重启
+- [ ] 图形界面
+
+## 不会实现
+- [ ] 自动更新
