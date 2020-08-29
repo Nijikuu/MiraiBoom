@@ -1,66 +1,67 @@
-# ~~我不会放弃这个项目的~~ 停止维护
-原因：~~MiraiConsoleM3有更完美的启动方法，而且我懒~~
-*我！开！学！了！*
+# ~~我不會放棄這個項目的~~ 停止維護
+原因：~~MiraiConsoleM3有更完美的啓動方法，而且我懶~~
+*我！開！學！了！*
 
 
 # MiraiBoom
 
-首个易语言写的mirai一键包（大概）
-随时会爆炸的一键包（确信）
+首個易語言寫的mirai一鍵包（大概）
+隨時會爆炸的一鍵包（確信）
 
-## 你知道吗：这事一个套娃项目
- ### 主项目 [Mirai](https://github.com/mamoe/mirai)
- #### 套了个 [Mirai-Console](https://github.com/mamoe/mirai-console/)
- ##### 然后套了个用于启动[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)
- ###### 最后套了个用于启动[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的一键包
+## 你知道嗎：這是一個套娃項目
+ ### 主項目 [Mirai](https://github.com/mamoe/mirai)
+ #### 套了個 [Mirai-Console](https://github.com/mamoe/mirai-console/)
+ ##### 然後套了個用於啓動[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)
+ ###### 最後套了個用於啓動[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的一鍵包
  
- 然后源码里面套了用于启动[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的修改版
- - 然后里面套了个压缩包
- - - 压缩包里套了[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)仓库里面的Lib文件夹和jre
+ 然後源碼裏面套了用於啓動[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的修改版
+ - 然後裏面套了個个壓縮包
+ - - 壓縮包裏套了[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)倉庫裏面的Lib文件夾和jre
 
 ~~套，就硬套~~
 
 # 使用方法
-从Release里面下载然后运行即可
+從Release裏面下載然後運行即可
 
-## 给想要魔改MiraiBoom的开发者的食用方法
-~~不会真有人想要魔改这个玩意吧！不会吧不会吧~~
+## 魔改方法
+~~不會真有人想要魔改這玩意吧！不會吧不會吧~~
 
-- 从[这个仓库](https://github.com/MizunaNako/mirai-console-starter/tree/master/lib/)下载mirai相关的包然后找32位jre，并把这堆东西打包为.zip，使其解压出来后是**两个文件夹**，而不是一个文件夹里面装了两个文件夹，把这压缩包作为资源，塞进易语言的图片资源表（文件），然后各种魔改+编译即可
-- 或从ReleaseV0.0.1里面直接下载Sources.zip，解压就是正常的塞了zip的文件，然后开始你的魔改工作罢
+因爲文件體積限制，所以CodeSource裏面的啓動+安裝.e是沒有包含必要的文件的，就是個空殼
+- 從[這個倉庫](https://github.com/MizunaNako/mirai-console-starter/tree/master/lib/)下載mirai相關的包然後自己找32位jre，并把這堆東西打包為.zip，使其解壓后是**两个文件夹**，而不是一個文件夾裝了兩個文件夾，壓縮包作爲圖片資源，塞進易語言圖片資源表（文件），然後各種魔改+編譯即可
+- 或者從ReleaseV0.0.1裏面直接下載Sources.zip，解壓了就是正常的塞了zip的文件，可以直接編譯的那種，撒！開始魔改吧
 
 
 
 ## 更新方式
-从[这个地方](https://github.com/project-mirai/mirai-repo/tree/master/shadow/)里面每个文件夹都下载一个最新版本的文件就行（暴论），然后丢进content里面，把旧版本删掉
+[這裏（こ↑こ↓）](https://github.com/project-mirai/mirai-repo/tree/master/shadow/)每個文件夾都下載一個最新版本的文件就行（暴論），然後塞進content裏，把舊版本刪掉，備份，請
 
-## 安全软件
-有一说一这个屑玩意拿易语言写的，如果报毒之类的建议别理，不信你下源码看看我写了些啥，害怕的可以不用
+## 安全相關
+有一説一，這個屑東西拿易語言寫的，到底有沒有問題我也不知道，反正我沒寫什麽問題代碼，如果你局的害怕我建議您不用
 
-# 关于ISSUE
-## 以下ISSUE会被直接关闭
+# 關於ISSUE
+## 以下類型的ISSUE會被直接關閉
 - 我不想回答的
-- 询问任何安装问题
-- 询问任何如何下载相关的问题
-- 询问如何更新
-- 提出bug
+- 詢問任何安裝問題（雙擊打開程序，不要放在C盤）
+- 詢問如何下載的問題（兄啊，你都會發ISSUE了不會連從Release下載東西都不會吧）
+- 詢問如何更新（別問，問就是我也不會）
+- 提出bug（開學了沒時間修）
 
-## 以下情况所有ISSUE都不会回答
+## 以下情況所有ISSUE都不會答復
 - 我不在家
-- 我开学
-- 我梯子没了
->请注意, 开发者并没有义务回复您的问题.您应该学会自己查看源码
+- 我開學
+- 我梯子炸了
+>請注意，開發者沒有義務回答您的問題，請學會自己看代碼
 
 # 功能
 
-## 已经实现
-- [x] 自动解压
-- [x] 自动安装
-- [x] 一球人要的自动登录
+## 已經實現
+- [x] 自動解壓
+- [x] 自動安裝
+- [x] 一堆人要的自動登錄
 
 ## 正在咕咕
-- [ ] 自动重启
-- [ ] 图形界面
+- [ ] 自動重啓
+- [ ] 圖形界面
 
-## 不会实现
-- [ ] 自动更新
+## 不會實現
+- [ ] 自動更新
