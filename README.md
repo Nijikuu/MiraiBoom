@@ -16,7 +16,7 @@
  
  然後源碼裏面套了用於啓動[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的修改版
  - 然後裏面套了個个壓縮包
- - - 壓縮包裏套了[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)倉庫裏面的Lib文件夾和jre
+ - - 壓縮包裏套了[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)倉庫裏面的lib文件夾和jre
 
 ~~套，就硬套~~
 
