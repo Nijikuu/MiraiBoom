@@ -11,12 +11,12 @@
 ## 你知道嗎：這是一個套娃項目
  ### 主項目 [Mirai](https://github.com/mamoe/mirai)
  #### 套了個 [Mirai-Console](https://github.com/mamoe/mirai-console/)
- ##### 然後套了個用於啓動[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)
- ###### 最後套了個用於啓動[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的一鍵包
+ ##### 然後套了個用於啓動[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Starter](https://github.com/Pai2Chen/mirai-console-starter)
+ ###### 最後套了個用於啓動[Mirai-Console-Starter](https://github.com/Pai2Chen/mirai-console-starter)的一鍵包
  
- 然後源碼裏面套了用於啓動[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的修改版
+ 然後源碼裏面套了用於啓動[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Starter](https://github.com/Pai2Chen/mirai-console-starter)的修改版
  - 然後裏面套了個个壓縮包
- - - 壓縮包裏套了[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)倉庫裏面的lib文件夾和jre
+ - - 壓縮包裏套了[Mirai-Console-Starter](https://github.com/Pai2Chen/mirai-console-starter)倉庫裏面的lib文件夾和jre
 
 ~~套，就硬套~~
 
