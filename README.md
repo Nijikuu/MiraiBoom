@@ -1,5 +1,7 @@
 # ~~我不会放弃这个项目的~~ 停止维护
-原因：MiraiConsoleM3有更完美的启动方法，而且我懒
+原因：~~MiraiConsoleM3有更完美的启动方法，而且我懒~~
+*我！开！学！了！*
+
 
 # MiraiBoom
 
@@ -24,10 +26,10 @@
 ## 给想要魔改MiraiBoom的开发者的食用方法
 ~~不会真有人想要魔改这个玩意吧！不会吧不会吧~~
 
-从[这个仓库](https://github.com/MizunaNako/mirai-console-starter/tree/master/lib/)下载mirai相关的包然后找32位jre，并把这堆东西打包为.zip，使其解压出来后是**两个文件夹**，而不是一个文件夹里面装了两个文件夹
-或从ReleaseV0.0.1里面直接下载Sources.zip，解压就是正常的塞了zip的文件
+- 从[这个仓库](https://github.com/MizunaNako/mirai-console-starter/tree/master/lib/)下载mirai相关的包然后找32位jre，并把这堆东西打包为.zip，使其解压出来后是**两个文件夹**，而不是一个文件夹里面装了两个文件夹，把这压缩包作为资源，塞进易语言的图片资源表（文件），然后各种魔改+编译即可
+- 或从ReleaseV0.0.1里面直接下载Sources.zip，解压就是正常的塞了zip的文件，然后开始你的魔改工作罢
 
-把这压缩包作为资源，塞进易语言的图片资源表（文件），然后各种魔改+编译即可
+
 
 ## 更新方式
 从[这个地方](https://github.com/project-mirai/mirai-repo/tree/master/shadow/)里面每个文件夹都下载一个最新版本的文件就行（暴论），然后丢进content里面，把旧版本删掉
