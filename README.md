@@ -11,6 +11,10 @@
  #### 套了个 [Mirai-Console](https://github.com/mamoe/mirai-console/)
  ##### 然后套了个用于启动[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)
  ###### 最后套了个用于启动[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的一键包
+ ####### 然后源码里面套了用于启动[Mirai-Console](https://github.com/mamoe/mirai-console/)的 [Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)的修改版
+ ####### 然后里面套了个压缩包
+ ######## 压缩包里套了[Mirai-Console-Stater](https://github.com/Pai2Chen/mirai-console-starter)仓库里面的Lib文件夹和jre
+ #########  ~~套，就硬套~~
 
 # 使用方法
 从Release里面下载然后运行即可
